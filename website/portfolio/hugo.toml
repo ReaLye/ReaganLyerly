@@ -2,3 +2,6 @@ baseURL = 'https://reaganlyerly.com/'
 languageCode = 'en-us'
 title = 'Reagan Lyerly'
 theme = 'newsroom'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
