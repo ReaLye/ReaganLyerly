@@ -834,7 +834,17 @@ aside h3 {
 
 .post .icon {
   margin-top: 0;
-  margin-bottom: 0;
+}
+
+.post_markdownButton {
+  font-size: inherit;
+  background-color: #0F4D1F;
+  border-radius: 1em;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
 }
 
 .post_date {
