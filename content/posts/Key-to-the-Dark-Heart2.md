@@ -4,7 +4,7 @@ title = "Key to the Dark Heart"
 description = ""
 tags = []
 date = "2023-05-13"
-image = "/images/BoopBowl.jpg"
+image = "/images/GlowBowl.JPG"
 innerImageWidth = 50
 summary = "The night the queen died, she passed me the heavy old key that had been worn around her neck for as long as I could remember. As she closed my fingers around the warm metal, shining from having been polished by her..."
 +++
