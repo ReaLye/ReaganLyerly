@@ -4,7 +4,7 @@ title = "Blood Binds"
 description = ""
 tags = []
 date = "2022-11-16"
-image = "/images/YellVine.jpg" 
+image = "/images/YellVine.JPG" 
 innerImageWidth = 40
 summary = "Souls can be tied together through many things—birth, love, tragedy. In this short exerpt from my dark romance novel, we see how two young boys are pushed into a relationship that binds them for life."
 +++
